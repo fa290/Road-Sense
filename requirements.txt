@@ -1,0 +1,8 @@
+opencv-python
+numpy 
+albumentations 
+matplotlib 
+torch 
+tqdm
+pytest
+pytest-cov
