@@ -74,7 +74,7 @@ This script performs:
 
 1. Clone the repository
 
-git clone https://github.com/your-username/Road-Sense.git
+git clone https://github.com/fa290/Road-Sense/blob/main/preprocessing.py
 
 2. Navigate to the project directory
 
